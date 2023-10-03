@@ -3,4 +3,4 @@ DebugHack by _Yarik228(MysticCat212417) and hopien(NotAShadow_Zrozrux) for minec
 
 For open press Right-shift(Rshift)
 
-ATTENTION! YOUR CONFIGURATION DO NOT SAVE!
+
